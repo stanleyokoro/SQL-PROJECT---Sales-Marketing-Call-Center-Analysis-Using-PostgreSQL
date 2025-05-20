@@ -151,4 +151,4 @@ LIMIT 5;
 
 Made by **Stanley Chinor Okoro**  
 📧 stanley.chinor@gmail.com  
-🔗 [GitHub](https://github.com/timelesshov) • [LinkedIn](https://www.linkedin.com/in/timelesshov)
+🔗 [GitHub](https://github.com/stanleyokoro) • [LinkedIn](https://www.linkedin.com/in/timelesshov)
