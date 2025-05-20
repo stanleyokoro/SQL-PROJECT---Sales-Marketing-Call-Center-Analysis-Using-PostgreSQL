@@ -3,7 +3,7 @@
 
 ## 🧾 Project Overview
 
-This project analyzes **200,000 customer service call records** from a fictional sales and marketing call center. It aims to uncover actionable insights on agent performance, customer behavior, product success, and operational bottlenecks using advanced SQL queries.
+This project analyzes **200,000 customer service call records** from a sales and marketing call center. It aims to uncover actionable insights on agent performance, customer behavior, product success, and operational bottlenecks using advanced SQL queries.
 
 ## 📂 Dataset Details
 
